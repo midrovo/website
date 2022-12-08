@@ -1,0 +1,27 @@
+h1 {
+    font-family: Comic Sans Ms;
+    margin: auto;
+    color: brown;
+    width: 95%;
+}
+
+ul li {
+    margin: auto;
+    width: 20%;
+    list-style-type: none; 
+    padding: 6px 5px 6px 5px;
+    font-family: Comic Sans Ms;
+}
+
+li:nth-child(odd) {
+    background-color: aquamarine;
+    color: white;
+}
+
+li.fucsia {
+    background-color: fuchsia;
+}
+
+li.orange {
+    background-color: orange;
+}
